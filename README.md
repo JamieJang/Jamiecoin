@@ -1,0 +1,2 @@
+# Jamiecoin
+practice crypto currency
